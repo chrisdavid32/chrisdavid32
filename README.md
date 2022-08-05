@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chrisdave</h1>
 <h3 align="center">A passionate Software Developer from Nigeria with two(2) Years of Experience</h3>
 
-<p align="right" alt="coding" width="300"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
+<p align="right" alt="coding" width="50px" height="50px"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisdavid32" alt="chrisdavid32" /></a> </p>
 
