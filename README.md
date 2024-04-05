@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisdavid32&label=Profile%20views&color=0e75b6&style=flat" alt="chrisdavid32" /> </p>
 
 
-- 💬 Ask me about **PHP, Laravel, Javascript, MySql, Livewire, CSS**
+- 💬 Ask me about **PHP, Laravel, Cloud Server, Javascript, React, MySql, Livewire, CSS**
 
 - 📫 How to reach me **chrisdavid3271@gmail.com**
 
